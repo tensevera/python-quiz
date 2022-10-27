@@ -13,6 +13,7 @@
 # Kolik očí má člověk? - 2
 # V jakém roce vznikl Python? - 1991
 
+
 pocet_bodu = 0
 
 odpoved = int(input("Kolik nohou má pes?\n"))
@@ -40,14 +41,14 @@ if (odpoved == 2):
     print("pán študoval")
     pocet_bodu += 1
 
-odpoved = input("pusobí na tebe radiace?\n")
+odpoved = input("pusobí na tebe právě radiace?\n")
 if (odpoved == "ano"):
     print("Jsi genius")
     pocet_bodu += 1
 elif (odpoved == "ne"):
     print(" s alobalovou cepickou más pravdu")
  
-odpoved = int(input("kolik oci ma zpravna ezo bitch?\n"))
+odpoved = int(input("kolik oci ma zpravna ezo gal?\n"))
 if (odpoved == 3):
     print('KAM9NEK PRO TEBE')
     pocet_bodu += 1   
